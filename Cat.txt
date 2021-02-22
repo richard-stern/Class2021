@@ -3,7 +3,7 @@
 This is a terrible day
 Yes it is
 Cat
-<<<<<<< HEAD
+
 This is my new AI system
 Some more AI work
 
