@@ -13,6 +13,14 @@ Add something
 Add a word
 
 
+textAdded = true;
+
+while (true)
+{
+true = true;
+}
+
+
 
 funny words go brrrrrrrrrrr
 
