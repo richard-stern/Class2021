@@ -9,3 +9,6 @@ And some more text
 New player system
 Add something
 Add a word
+
+
+textAdded = true;
