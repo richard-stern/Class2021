@@ -3,6 +3,7 @@
 This is a terrible day
 Yes it is
 Cat
+<<<<<<< HEAD
 This is my new AI system
 Some more AI work
 
@@ -13,6 +14,17 @@ Add something
 Add a word
 
 
+textAdded = true;
+
+while (true)
+{
+true = true;
+}
+
+
 
 funny words go brrrrrrrrrrr
 
+=======
+This is my new AI system
+>>>>>>> hetBranched
