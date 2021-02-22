@@ -1,0 +1,3 @@
+yo get out of here, dont take me gold
+
+int gold =0;
