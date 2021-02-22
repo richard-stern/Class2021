@@ -9,15 +9,5 @@ And some more text
 New player system
 Add something
 Add a word
-
-
-textAdded = true;
-
-while (true)
-{
-true = true;
-}
-
-
-
-funny words go brrrrrrrrrrr
+tomato was here!!!
+hfghjsfgjdfgj
